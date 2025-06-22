@@ -63,4 +63,4 @@
 
 ###
 
-![My Fav Music](https://spotify-recently-played-readme.vercel.app/api?user=31ksoorvreoov7mt355ytaxbnwxu)
+[![My Fav Music](https://spotify-recently-played-readme.vercel.app/api?user=31ksoorvreoov7mt355ytaxbnwxu)](https://open.spotify.com/user/31ksoorvreoov7mt355ytaxbnwxu?si=87549c92c2b743a3)
