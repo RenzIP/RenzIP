@@ -49,16 +49,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bagas-agung-w/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e7a503e4-04d2-4c6d-b1d3-581d45e67ab3" width="55" height="40" alt="linkedin logo"  />
+    <img src="https://github.com/user-attachments/assets/e7a503e4-04d2-4c6d-b1d3-581d45e67ab3" width="55" height="55" alt="linkedin logo"  />
   </a>
   <a href="discordapp.com/users/447295826444943381" target="_blank">
-    <img src="https://github.com/user-attachments/assets/b8a153e3-977e-452b-910d-e96e9172a970" width="55" height="40" alt="discord logo"  />
+    <img src="https://github.com/user-attachments/assets/b8a153e3-977e-452b-910d-e96e9172a970" width="55" height="55" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@RenzArnando" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4fde5ccc-1924-4e56-9a09-5d18d59eb035" width="55" height="40" alt="youtube logo"  />
+    <img src="https://github.com/user-attachments/assets/4fde5ccc-1924-4e56-9a09-5d18d59eb035" width="55" height="55" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/bagas_ip/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/57e312dd-aa29-4365-9c55-587d65be205f" width="55" height="40" alt="instagram logo"  />
+    <img src="https://github.com/user-attachments/assets/57e312dd-aa29-4365-9c55-587d65be205f" width="55" height="55" alt="instagram logo"  />
   </a>
 
 ###
