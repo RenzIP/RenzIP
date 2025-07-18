@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/bagas-agung-w/" target="_blank">
     <img src="https://github.com/user-attachments/assets/e7a503e4-04d2-4c6d-b1d3-581d45e67ab3" width="55" height="55" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/447295826444943381" target="_blank">
+  <a href="https://discordapp.com/users/447295826444943381" target="_blank">
     <img src="https://github.com/user-attachments/assets/b8a153e3-977e-452b-910d-e96e9172a970" width="55" height="55" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@RenzArnando" target="_blank">
