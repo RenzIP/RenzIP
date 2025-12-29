@@ -20,6 +20,7 @@ Hello Im Bagas 👋<br>Backend Developer | Web Developer
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzIP&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzIP&layout=compact&langs_count=8&theme=radical"/>
 </a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
