@@ -21,7 +21,6 @@ Hello Im Bagas 👋<br>Backend Developer | Web Developer
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzIP&layout=compact&langs_count=8&theme=radical"/>
 </a>
 
-### ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=AI%20gak%20bakal%20gantiiin%20kalian%20tapi%20orang%20yang%20jago%20pake%20AI%20bakal%20gantiiin%20kalian&author=SandhikaGalih)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 
