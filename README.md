@@ -22,6 +22,7 @@ Hello Im Bagas 👋<br>Backend Developer | Web Developer
 </a>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=AI%20gak%20bakal%20gantiiin%20kalian%20tapi%20orang%20yang%20jago%20pake%20AI%20bakal%20gantiiin%20kalian&author=SandhikaGalih)](https://github.com/PiyushSuthar/github-readme-quotes)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
