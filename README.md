@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-Hello Im Bagas 👋<br>Fullstack Developer | Web Developer | Vibe Engineer
+Hello Im Bagas 👋<br>Fullstack Software Developer | Vibe Engineer
 
 
 ## 🌐 Socials:
