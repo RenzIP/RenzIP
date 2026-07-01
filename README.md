@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/a93cg2.jpg"  />
+  <img height="200" src="https://github.com/user-attachments/assets/ae3eb200-b018-4f1c-a3b9-f475c14f8fd7"  />
 </div>
+
 
 # 💫 About Me:
 Hello Im Bagas 👋<br>Fullstack Software Developer | Vibe Engineer
